@@ -60,12 +60,12 @@ body {
 }
 #gtco-main-nav .navbar-brand {
   font-size: 36px;
-  font-family: "Baloo";
-  text-transform: ;
-  background: -webkit-linear-gradient(left, #96e6a1, #d4fc79);
-  background: -ms-linear-gradient(left, #96e6a1, #d4fc79);
-  background: -moz-linear-gradient(left, #96e6a1, #d4fc79);
-  background: -o-linear-gradient(left, #96e6a1, #d4fc79);
+  font-family: "OpenSans-Bold";
+
+  background: -webkit-linear-gradient(left, #000000, #000000);
+  background: -ms-linear-gradient(left, #000000, #000000);
+  background: -moz-linear-gradient(left, #000000, #000000);
+  background: -o-linear-gradient(left, #000000, #000000);
   -webkit-background-clip: text;
   -ms-background-clip: text;
   -o-background-clip: text;
