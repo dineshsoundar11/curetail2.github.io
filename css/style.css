@@ -60,12 +60,12 @@ body {
 }
 #gtco-main-nav .navbar-brand {
   font-size: 36px;
-  font-family: "Lato-Black";
-  text-transform: uppercase;
-  background: -webkit-linear-gradient(left, #1d3ede, #01e6f8);
-  background: -ms-linear-gradient(left, #1d3ede, #01e6f8);
-  background: -moz-linear-gradient(left, #1d3ede, #01e6f8);
-  background: -o-linear-gradient(left, #1d3ede, #01e6f8);
+  font-family: "Baloo";
+  text-transform: ;
+  background: -webkit-linear-gradient(left, #56ab2f, #a8e063);
+  background: -ms-linear-gradient(left, #56ab2f, #a8e063);
+  background: -moz-linear-gradient(left, #56ab2f, #a8e063);
+  background: -o-linear-gradient(left, #56ab2f, #a8e063);
   -webkit-background-clip: text;
   -ms-background-clip: text;
   -o-background-clip: text;
@@ -109,8 +109,8 @@ body {
   border-width: 2px;
 }
 #gtco-main-nav form a.btn-info {
-  background: #01e6f8;
-  border-color: #01e6f8;
+  background: #a8e063;
+  border-color: #a8e063;
 }
 #gtco-main-nav form a.btn-outline-dark {
   border-color: #fff;
@@ -118,8 +118,8 @@ body {
 }
 @media (max-width: 991px) {
   #gtco-main-nav form a.btn-outline-dark {
-    border-color: #1d3ede;
-    color: #1d3ede;
+    border-color: #56ab2f;
+    color: #56ab2f;
   }
 }
 #gtco-main-nav::after {
@@ -127,11 +127,11 @@ body {
   content: "";
   height: 600px;
   width: 900px;
-  background-image: -webkit-linear-gradient(-220deg, #1d3ede, #01e6f8);
-  background-image: -moz-linear-gradient(-220deg, #1d3ede, #01e6f8);
-  background-image: -ms-linear-gradient(-220deg, #1d3ede, #01e6f8);
-  background-image: -o-linear-gradient(-220deg, #1d3ede, #01e6f8);
-  background-image: linear-gradient(-220deg, #1d3ede, #01e6f8);
+  background-image: -webkit-linear-gradient(-220deg, #56ab2f, #a8e063);
+  background-image: -moz-linear-gradient(-220deg, #56ab2f, #a8e063);
+  background-image: -ms-linear-gradient(-220deg, #56ab2f, #a8e063);
+  background-image: -o-linear-gradient(-220deg, #56ab2f, #a8e063);
+  background-image: linear-gradient(-220deg, #56ab2f, #a8e063);
   left: 49.5%;
   top: -50px;
   z-index: -1;
@@ -396,7 +396,7 @@ body {
 .gtco-features .col-lg-8 .card h3 {
   font-family: "Lato-Regular";
   font-size: 24px;
-  color: #1d3ede;
+  color: #56ab2f;
 }
 .gtco-features .col-lg-8 .card p {
   font-size: 16px;
@@ -547,14 +547,14 @@ body {
   border-radius: 50%;
   display: block;
   background: #fff;
-  border: 2px solid #01e6f8;
+  border: 2px solid #a8e063;
   margin: 0 5px;
 }
 .gtco-testimonials .owl-dots .active {
   box-shadow: none;
 }
 .gtco-testimonials .owl-dots .active span {
-  background: #01e6f8;
+  background: #a8e063;
   box-shadow: none;
   height: 12px;
   width: 12px;
@@ -571,12 +571,12 @@ body {
   max-width: 100px;
   border-radius: 50%;
   margin: 0 auto;
-  border: 5px solid #1d3ede;
+  border: 5px solid #56ab2f;
   width: 100px;
   height: 100px;
 }
 .gtco-testimonials .card h5 {
-  color: #1d3ede;
+  color: #56ab2f;
   font-size: 21px;
   line-height: 1.3;
   font-family: "Lato-Medium";
@@ -725,7 +725,7 @@ body {
 #gtco-footer h4 {
   font-family: "Lato-Medium";
   font-size: 24px;
-  color: #1d3ede;
+  color: #56ab2f;
   margin-bottom: 30px;
 }
 #gtco-footer input, #gtco-footer textarea {
