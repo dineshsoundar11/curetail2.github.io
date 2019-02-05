@@ -62,10 +62,10 @@ body {
   font-size: 36px;
   font-family: "Baloo";
   text-transform: ;
-  background: -webkit-linear-gradient(left, #56ab2f, #a8e063);
-  background: -ms-linear-gradient(left, #56ab2f, #a8e063);
-  background: -moz-linear-gradient(left, #56ab2f, #a8e063);
-  background: -o-linear-gradient(left, #56ab2f, #a8e063);
+  background: -webkit-linear-gradient(left, #96e6a1, #d4fc79);
+  background: -ms-linear-gradient(left, #96e6a1, #d4fc79);
+  background: -moz-linear-gradient(left, #96e6a1, #d4fc79);
+  background: -o-linear-gradient(left, #96e6a1, #d4fc79);
   -webkit-background-clip: text;
   -ms-background-clip: text;
   -o-background-clip: text;
@@ -109,8 +109,8 @@ body {
   border-width: 2px;
 }
 #gtco-main-nav form a.btn-info {
-  background: #a8e063;
-  border-color: #a8e063;
+  background: #d4fc79;
+  border-color: #d4fc79;
 }
 #gtco-main-nav form a.btn-outline-dark {
   border-color: #fff;
@@ -118,8 +118,8 @@ body {
 }
 @media (max-width: 991px) {
   #gtco-main-nav form a.btn-outline-dark {
-    border-color: #56ab2f;
-    color: #56ab2f;
+    border-color: #96e6a1;
+    color: #96e6a1;
   }
 }
 #gtco-main-nav::after {
@@ -127,11 +127,11 @@ body {
   content: "";
   height: 600px;
   width: 900px;
-  background-image: -webkit-linear-gradient(-220deg, #56ab2f, #a8e063);
-  background-image: -moz-linear-gradient(-220deg, #56ab2f, #a8e063);
-  background-image: -ms-linear-gradient(-220deg, #56ab2f, #a8e063);
-  background-image: -o-linear-gradient(-220deg, #56ab2f, #a8e063);
-  background-image: linear-gradient(-220deg, #56ab2f, #a8e063);
+  background-image: -webkit-linear-gradient(-220deg, #96e6a1, #d4fc79);
+  background-image: -moz-linear-gradient(-220deg, #96e6a1, #d4fc79);
+  background-image: -ms-linear-gradient(-220deg, #96e6a1, #d4fc79);
+  background-image: -o-linear-gradient(-220deg, #96e6a1, #d4fc79);
+  background-image: linear-gradient(-220deg, #96e6a1, #d4fc79);
   left: 49.5%;
   top: -50px;
   z-index: -1;
@@ -166,11 +166,11 @@ body {
   content: "";
   height: 590px;
   width: 930px;
-  background-image: -webkit-linear-gradient(to right, #e8eefc, #e6fafe);
-  background-image: -moz-linear-gradient(to right, #e8eefc, #e6fafe);
-  background-image: -ms-linear-gradient(to right, #e8eefc, #e6fafe);
-  background-image: -o-linear-gradient(to right, #e8eefc, #e6fafe);
-  background-image: linear-gradient(to right, #e8eefc, #e6fafe);
+  background-image: -webkit-linear-gradient(to right, #bdfcc6, #90e59b);
+  background-image: -moz-linear-gradient(to right, #bdfcc6, #90e59b);
+  background-image: -ms-linear-gradient(to right, #bdfcc6, #90e59b);
+  background-image: -o-linear-gradient(to right, #bdfcc6, #90e59b);
+  background-image: linear-gradient(to right, #bdfcc6, #90e59b);
   left: 47.5%;
   top: -25px;
   z-index: -1;
@@ -202,9 +202,9 @@ body {
 }
 
 .gtco-banner-area a, .gtco-feature a, .gtco-features a, .gtco-news .owl-carousel .card a, #gtco-footer .submit-button {
-  background-image: -moz-linear-gradient(0deg, #06c6f9 0%, #38eaf9 100%);
-  background-image: -webkit-linear-gradient(0deg, #06c6f9 0%, #38eaf9 100%);
-  background-image: -ms-linear-gradient(0deg, #06c6f9 0%, #38eaf9 100%);
+  background-image: -moz-linear-gradient(0deg, #fda085 0%, #f6d365 100%);
+  background-image: -webkit-linear-gradient(0deg, #fda085 0%, #f6d365 100%);
+  background-image: -ms-linear-gradient(0deg, #fda085 0%, #f6d365 100%);
   font-size: 18px;
   font-family: "OpenSans-Semibold";
   color: #fff;
@@ -220,7 +220,7 @@ body {
   border-radius: 50%;
   height: 32px;
   width: 32px;
-  color: #37eaf9;
+  color: #fda085;
   font-size: 22px;
   text-align: center;
   padding-top: 5px;
@@ -396,7 +396,7 @@ body {
 .gtco-features .col-lg-8 .card h3 {
   font-family: "Lato-Regular";
   font-size: 24px;
-  color: #56ab2f;
+  color: #96e6a1;
 }
 .gtco-features .col-lg-8 .card p {
   font-size: 16px;
@@ -547,14 +547,14 @@ body {
   border-radius: 50%;
   display: block;
   background: #fff;
-  border: 2px solid #a8e063;
+  border: 2px solid #d4fc79;
   margin: 0 5px;
 }
 .gtco-testimonials .owl-dots .active {
   box-shadow: none;
 }
 .gtco-testimonials .owl-dots .active span {
-  background: #a8e063;
+  background: #d4fc79;
   box-shadow: none;
   height: 12px;
   width: 12px;
@@ -571,12 +571,12 @@ body {
   max-width: 100px;
   border-radius: 50%;
   margin: 0 auto;
-  border: 5px solid #56ab2f;
+  border: 5px solid #96e6a1;
   width: 100px;
   height: 100px;
 }
 .gtco-testimonials .card h5 {
-  color: #56ab2f;
+  color: #96e6a1;
   font-size: 21px;
   line-height: 1.3;
   font-family: "Lato-Medium";
@@ -725,7 +725,7 @@ body {
 #gtco-footer h4 {
   font-family: "Lato-Medium";
   font-size: 24px;
-  color: #56ab2f;
+  color: #96e6a1;
   margin-bottom: 30px;
 }
 #gtco-footer input, #gtco-footer textarea {
